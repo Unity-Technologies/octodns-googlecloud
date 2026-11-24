@@ -2,7 +2,7 @@
 Pygments==2.14.0
 attrs==22.2.0
 black==23.1.0
-bleach==6.0.0
+bleach==6.4.0
 build==0.10.0
 cffi==1.15.1
 click==8.1.3
