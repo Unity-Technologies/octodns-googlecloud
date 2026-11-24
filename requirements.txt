@@ -10,7 +10,7 @@ google-auth==2.16.0
 google-cloud-core==2.3.2
 google-cloud-dns==0.34.1
 googleapis-common-protos==1.58.0
-idna==3.4
+idna==3.15
 natsort==8.2.0
 octodns==0.9.21
 protobuf==4.21.8
